@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Glamplan",
+    "slug": "Glamplan",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.janiat94.glamplan"
+    },
+    "android": {
+      "package": "com.janiat94.glamplan"
+    }
+  },
+  "name": "Glamplan"
+}

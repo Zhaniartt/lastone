@@ -1,0 +1,12 @@
+{
+  "welcome": "Willkommen bei Glamplan.",
+  "paragraph": "Dies ist ein Testabsatz, um zu überprüfen, ob alles richtig funktioniert. Seien Sie also vorsichtig und geben Sie Ihr Bestes für dieses Erlebnis. Genießen Sie es und seien Sie auf die nächste Veröffentlichung vorbereitet.",
+  "getStarted": "Erste Schritte",
+  "signIn": "Haben Sie bereits ein Konto? Anmelden",
+  "signInButton": "Anmelden",
+  "chooseLanguageHeader": "Wählen Sie Ihre Sprache",
+  "roleTextHeader": "Ich bin",
+  "owner": "Salonbesitzer",
+  "client": "Kunde",
+  "teamMember": "Teammitglied"
+}

@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome to Glamplan.",
+  "paragraph": "This is a test paragraph to check if everything is working correctly. So, take care and do your best for this experience. Enjoy and be prepared for the next release.",
+  "getStarted": "Get Started",
+  "signIn": "Already have an account? Sign in",
+  "signInButton": "Sign in",
+  "chooseLanguageHeader": "Choose your language",
+  "roleTextHeader": "I am",
+  "owner": "Salon's owner",
+  "client": "Client",
+  "teamMember": "Team member"
+}
